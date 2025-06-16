@@ -9,6 +9,8 @@
 第二部分操作：在Virtual robots → Cartesian Control → Motion → File，可以直接输入末端轨迹笛卡尔坐标的6*n维数据csv文件，无需额外逆运动学求解，点击Start播放
 
 结果如下图所示
+
+
 ![image](https://github.com/user-attachments/assets/19948ae1-9f90-4677-a0d1-a6ea060e9e8c)
 ![image](https://github.com/user-attachments/assets/b7dfb9d6-11c2-42ee-ac54-6d9ca8ce280b)
 
