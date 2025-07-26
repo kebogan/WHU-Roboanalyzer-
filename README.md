@@ -14,5 +14,3 @@
 ![image](https://github.com/user-attachments/assets/19948ae1-9f90-4677-a0d1-a6ea060e9e8c)
 ![image](https://github.com/user-attachments/assets/b7dfb9d6-11c2-42ee-ac54-6d9ca8ce280b)
 
-
-帮到你的话给个star支持一下叭！
